@@ -1,0 +1,29 @@
+body {
+    font-family: 'Montserrat' ;
+}
+
+
+.main-titulo {
+    text-align: center;
+}
+
+.entrada {
+    padding: 25px;
+    margin: 15px;
+    border: 1px solid #cccccc
+}
+
+.image-container {
+    display: flex;
+}
+
+.img-thumbnail {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #dddddd;
+    margin: auto;
+}
+
+.nopost {
+    text-align: center;
+}
